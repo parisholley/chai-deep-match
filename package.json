@@ -35,9 +35,6 @@
   "engines": {
     "node": ">=0.10"
   },
-  "peerDependencies": {
-    "chai": ">=2.1.2 <4"
-  },
   "devDependencies": {
     "chai": "^3.5.0",
     "grunt": "^0.4.5",
